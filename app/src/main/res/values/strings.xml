@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MiAgenda</string>
+    <string name="titulo">Formulario</string>
+    <string name="name">"Name: "</string>
+    <string name="name1">Name</string>
+    <string name="pass">Password:</string>
+    <string name="pass1">PassWord</string>
+    <string name="rPass">Repeat Password:</string>
+    <string name="rPassW">Repeat PassWord</string>
+    <string name="correo">Email:</string>
+    <string name="eCorreo">Email</string>
+    <string name="tsexo">Gender</string>
+    <string name="rfemenino">F</string>
+    <string name="rmasculino">M</string>
+    <string name="nacimiento">Date:</string>
+    <string name="eDate">Date</string>
+    <string name="tHobies">Hobbies</string>
+    <string name="futbol">Futbol</string>
+    <string name="leer">Leer</string>
+    <string name="bailar">Bailar</string>
+    <string name="cocinar">Cocinar</string>
+    <string name="tInformacion" />
+    <string name="bGuardar">Guardar</string>
+</resources>

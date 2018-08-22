@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Manizales</item>
+        <item>Barranquilla</item>
+        <item>Pereira</item>
+    </string-array>
+</resources>
